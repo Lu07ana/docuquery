@@ -1,0 +1,302 @@
+[
+    {
+        "question": "How many days had Santiago gone without catching a fish at the beginning of the story?",
+        "expected_answer": "Eighty-four days.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [2]
+    },
+    {
+        "question": "Why did Manolin stop fishing with Santiago?",
+        "expected_answer": "His parents, especially his father, ordered him to fish on another boat because Santiago was considered extremely unlucky.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [2, 3]
+    },
+    {
+        "question": "How old was Manolin when Santiago first took him fishing?",
+        "expected_answer": "Five years old.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [3]
+    },
+    {
+        "question": "What basic furniture and cooking facilities were inside Santiago's shack?",
+        "expected_answer": "A bed, a table, one chair, and a place on the dirt floor for cooking with charcoal.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [5]
+    },
+    {
+        "question": "What photograph did Santiago remove from the wall of his shack, and why?",
+        "expected_answer": "He removed a photograph of his wife because seeing it made him too lonely.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [5]
+    },
+    {
+        "question": "What number does Santiago consider lucky before his next fishing trip?",
+        "expected_answer": "Eighty-five.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [5, 6]
+    },
+    {
+        "question": "What food does Manolin bring Santiago for supper?",
+        "expected_answer": "Black beans and rice, fried bananas, and some stew.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [7]
+    },
+    {
+        "question": "Who provides the supper that Manolin brings to Santiago?",
+        "expected_answer": "Martin, the owner of the Terrace.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [7]
+    },
+    {
+        "question": "Which famous baseball player does Santiago especially admire?",
+        "expected_answer": "Joe DiMaggio.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [8]
+    },
+    {
+        "question": "Where had Santiago sailed when he was a boy on a square-rigged ship?",
+        "expected_answer": "To Africa.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [8]
+    },
+    {
+        "question": "What animals does Santiago repeatedly dream about from his youth?",
+        "expected_answer": "Lions on the beaches of Africa.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [9]
+    },
+    {
+        "question": "How does Santiago wake Manolin before the early-morning fishing trip?",
+        "expected_answer": "He gently takes hold of one of Manolin's feet until the boy wakes.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [10]
+    },
+    {
+        "question": "What fishing gear does Manolin carry from the shack toward the boat in the morning?",
+        "expected_answer": "The rolls of line in the basket, the harpoon, and the gaff.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [10]
+    },
+    {
+        "question": "What does Santiago have to eat and drink during the day when he sets out alone?",
+        "expected_answer": "He drinks coffee before leaving and carries only a bottle of water in the skiff; he takes no lunch.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [10]
+    },
+    {
+        "question": "Does Santiago think of the sea as masculine or feminine?",
+        "expected_answer": "Feminine; he thinks of the sea as 'la mar'.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [11]
+    },
+    {
+        "question": "At what four depths does Santiago set his fishing baits?",
+        "expected_answer": "Forty, seventy-five, one hundred, and one hundred twenty-five fathoms.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [12]
+    },
+    {
+        "question": "What bait fish does Santiago use on his two deepest lines?",
+        "expected_answer": "Two fresh small tunas, or albacores.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [12]
+    },
+    {
+        "question": "Why does Santiago try to keep his fishing lines straighter than other fishermen do?",
+        "expected_answer": "So each bait stays at the exact depth where he intends it to be.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [12]
+    },
+    {
+        "question": "What bird does Santiago use as a sign that fish may be nearby?",
+        "expected_answer": "A man-of-war bird.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [12, 13]
+    },
+    {
+        "question": "What two things does Santiago consume regularly to strengthen himself and protect his health?",
+        "expected_answer": "White turtle eggs and shark liver oil.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [14]
+    },
+    {
+        "question": "What fish does Santiago catch before hooking the great marlin, and about how much does he think it weighs?",
+        "expected_answer": "An albacore, which he estimates at about ten pounds.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [15]
+    },
+    {
+        "question": "What bait is the marlin eating when Santiago first feels it on the line?",
+        "expected_answer": "A small tuna bait with fresh sardines covering the hook.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [15, 16]
+    },
+    {
+        "question": "In what direction does the marlin initially tow Santiago's skiff after being hooked?",
+        "expected_answer": "North-west.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [17]
+    },
+    {
+        "question": "What object does Santiago place under the fishing line across his shoulders to cushion it?",
+        "expected_answer": "A sack that had covered the bait box.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [18]
+    },
+    {
+        "question": "What animals come around Santiago's boat during the first night with the marlin?",
+        "expected_answer": "Two porpoises, a male and a female.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [18]
+    },
+    {
+        "question": "Why does Santiago cut away some of his other fishing lines during the night?",
+        "expected_answer": "To prevent another hooked fish from endangering the marlin line and to connect the reserve coils to the main line.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [19, 20]
+    },
+    {
+        "question": "What does Santiago tell the marlin about how long he will stay with it?",
+        "expected_answer": "He says he will stay with the fish until he is dead.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [20]
+    },
+    {
+        "question": "What injury does Santiago suffer when the marlin suddenly surges during the night?",
+        "expected_answer": "He is pulled onto his face and gets a cut below his eye.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [20]
+    },
+    {
+        "question": "What kind of small bird lands on Santiago's skiff and rests on the fishing line?",
+        "expected_answer": "A warbler.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [21]
+    },
+    {
+        "question": "What causes the cut on Santiago's working hand while he fights the marlin?",
+        "expected_answer": "A line burn from the fishing line.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [21, 22]
+    },
+    {
+        "question": "What does Santiago eat to try to strengthen his cramped hand?",
+        "expected_answer": "Raw strips of the small tuna or bonito.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [22, 23]
+    },
+    {
+        "question": "How much longer than the skiff does Santiago estimate the marlin to be when it first jumps?",
+        "expected_answer": "About two feet longer than the skiff.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [24]
+    },
+    {
+        "question": "What religious promise does Santiago make if he catches the marlin?",
+        "expected_answer": "He promises to say ten Our Fathers and ten Hail Marys and to make a pilgrimage to the Virgin of Cobre.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [25]
+    },
+    {
+        "question": "What past contest does Santiago remember to give himself confidence?",
+        "expected_answer": "An arm-wrestling match in Casablanca against a very strong man from Cienfuegos.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [26, 27]
+    },
+    {
+        "question": "What nickname did Santiago earn after winning his long arm-wrestling match?",
+        "expected_answer": "El Campeon, or The Champion.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [27]
+    },
+    {
+        "question": "What fish does Santiago catch near sunset while the marlin is still towing him?",
+        "expected_answer": "A dolphin, also called dorado.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [28]
+    },
+    {
+        "question": "What does Santiago find inside the dolphin when he guts it?",
+        "expected_answer": "Two fresh flying fish.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [30]
+    },
+    {
+        "question": "What does Santiago dream about during his short sleep at sea?",
+        "expected_answer": "He dreams of porpoises, then of being cold in the village, and finally of lions on a beach.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [31]
+    },
+    {
+        "question": "Why is Santiago relieved that the marlin has jumped repeatedly during the night?",
+        "expected_answer": "Because the jumps fill the sacks along the marlin's back with air, making it unable to dive deep to die.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [32]
+    },
+    {
+        "question": "When does the marlin finally begin to circle the boat?",
+        "expected_answer": "At sunrise on the third day since Santiago put to sea.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [33]
+    },
+    {
+        "question": "Where does Santiago drive the harpoon into the marlin?",
+        "expected_answer": "Into its side just behind the great chest fin, aiming for the heart.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [35, 36]
+    },
+    {
+        "question": "How heavy does Santiago estimate the marlin to be after he kills it?",
+        "expected_answer": "More than fifteen hundred pounds.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [37]
+    },
+    {
+        "question": "In what direction does Santiago sail after securing the marlin alongside the skiff?",
+        "expected_answer": "South-west.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [37]
+    },
+    {
+        "question": "What does Santiago eat after killing the marlin when he cannot find a spoon lure?",
+        "expected_answer": "Small shrimps shaken from a patch of yellow Gulf weed.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [38]
+    },
+    {
+        "question": "What type of shark is the first to attack the marlin on the way home?",
+        "expected_answer": "A large Mako shark, which Santiago calls a dentuso.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [38, 39]
+    },
+    {
+        "question": "About how much meat does Santiago say the first shark takes from the marlin?",
+        "expected_answer": "About forty pounds.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [39]
+    },
+    {
+        "question": "What weapon does Santiago improvise after losing his harpoon?",
+        "expected_answer": "He lashes his knife to the butt of an oar.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [40]
+    },
+    {
+        "question": "What kind of sharks attack Santiago in a pair after the Mako?",
+        "expected_answer": "Shovel-nosed sharks, which he calls galanos.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [41]
+    },
+    {
+        "question": "What happens to Santiago's knife while he fights a later shovelnose shark?",
+        "expected_answer": "The knife blade snaps.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [43]
+    },
+    {
+        "question": "How long is the marlin's skeleton measured to be after Santiago returns home?",
+        "expected_answer": "Eighteen feet from nose to tail.",
+        "expected_source": "oldmansea.pdf",
+        "expected_pages": [47]
+    }
+]

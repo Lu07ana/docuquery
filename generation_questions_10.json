@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How many days had Santiago gone without catching a fish at the beginning of the story?",
+    "expected_answer": "Eighty-four days.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [2]
+  },
+  {
+    "question": "What basic furniture and cooking facilities were inside Santiago's shack?",
+    "expected_answer": "A bed, a table, one chair, and a place on the dirt floor for cooking with charcoal.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [5]
+  },
+  {
+    "question": "Which famous baseball player does Santiago especially admire?",
+    "expected_answer": "Joe DiMaggio.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [8]
+  },
+  {
+    "question": "At what four depths does Santiago set his fishing baits?",
+    "expected_answer": "Forty, seventy-five, one hundred, and one hundred twenty-five fathoms.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [12]
+  },
+  {
+    "question": "What object does Santiago place under the fishing line across his shoulders to cushion it?",
+    "expected_answer": "A sack that had covered the bait box.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [18]
+  },
+  {
+    "question": "What injury does Santiago suffer when the marlin suddenly surges during the night?",
+    "expected_answer": "He is pulled onto his face and gets a cut below his eye.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [20]
+  },
+  {
+    "question": "What past contest does Santiago remember to give himself confidence?",
+    "expected_answer": "An arm-wrestling match in Casablanca against a very strong man from Cienfuegos.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [26, 27]
+  },
+  {
+    "question": "Where does Santiago drive the harpoon into the marlin?",
+    "expected_answer": "Into its side just behind the great chest fin, aiming for the heart.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [35, 36]
+  },
+  {
+    "question": "What type of shark is the first to attack the marlin on the way home?",
+    "expected_answer": "A large Mako shark, which Santiago calls a dentuso.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [38, 39]
+  },
+  {
+    "question": "How long is the marlin's skeleton measured to be after Santiago returns home?",
+    "expected_answer": "Eighteen feet from nose to tail.",
+    "expected_source": "oldmansea.pdf",
+    "expected_pages": [47]
+  }
+]
