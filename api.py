@@ -23,13 +23,16 @@ from google import genai
 
 from retrieval import (
     connect_db,
-    retrieve
+    retrieve,
+    initialize_database
 )
 
 from ingestion import (
     ensure_documents_table,
     ingest_pdf
 )
+
+from contextlib import asynccontextmanager
 
 # =========================================================
 # CONFIG
@@ -88,6 +91,18 @@ if not ALLOWED_ORIGINS:
         "ALLOWED_ORIGINS was not found."
     )
 
+# =========================================================
+# APPLICATION LIFESPAN
+# =========================================================
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+
+    initialize_database()
+
+    yield
+
+
 
 # =========================================================
 # APP
@@ -98,7 +113,8 @@ app = FastAPI(
     description=(
         "Hybrid RAG document question answering API."
     ),
-    version="1.0.0"
+    version="1.0.0",
+    lifespan=lifespan
 )
 
 

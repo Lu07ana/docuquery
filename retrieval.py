@@ -32,6 +32,91 @@ if not DATABASE_URL:
     )
 
 # =========================================================
+# INITIALIZE DATABASE
+# =========================================================
+
+def initialize_database():
+
+    conn = psycopg.connect(
+        DATABASE_URL
+    )
+
+    try:
+
+
+        conn.execute(
+            """
+            CREATE EXTENSION IF NOT EXISTS vector
+            """
+        )
+
+        conn.commit()
+
+
+        register_vector(
+            conn
+        )
+
+
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS chunks (
+
+                id BIGSERIAL PRIMARY KEY,
+
+                text TEXT NOT NULL,
+
+                source TEXT NOT NULL,
+
+                pages TEXT NOT NULL,
+
+                embedding VECTOR(384) NOT NULL
+
+            )
+            """
+        )
+
+
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS documents (
+
+                id BIGSERIAL PRIMARY KEY,
+
+                filename TEXT NOT NULL,
+
+                stored_name TEXT NOT NULL UNIQUE,
+
+                file_hash TEXT UNIQUE,
+
+                page_count INTEGER,
+
+                chunk_count INTEGER NOT NULL DEFAULT 0,
+
+                uploaded_at TIMESTAMPTZ
+                    NOT NULL
+                    DEFAULT NOW()
+
+            )
+            """
+        )
+
+
+        conn.commit()
+
+
+    except Exception:
+
+        conn.rollback()
+
+        raise
+
+
+    finally:
+
+        conn.close()
+
+# =========================================================
 # DATABASE
 # =========================================================
 
