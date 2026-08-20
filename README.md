@@ -456,21 +456,6 @@ This endpoint is also exposed through the frontend's Developer Mode and is usefu
 
 ---
 
-## Planned Improvements
-
-- Select individual documents before asking questions
-- Add persistent production backend hosting
-- Add vector indexes for faster large-scale retrieval
-- Add PostgreSQL full-text indexes
-- Add database connection pooling
-- Support incremental document versioning
-- Improve evaluation dataset size
-- Add automated backend tests
-- Add OCR support for scanned PDFs
-- Improve retrieval latency
-- Add document preview and source navigation
-
----
 
 ## Why I Built This
 
