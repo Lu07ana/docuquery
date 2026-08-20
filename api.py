@@ -284,7 +284,6 @@ def delete_document(stored_name: str):
 
     try:
 
-        # Prevent paths such as ../../something
         safe_name = Path(stored_name).name
 
         if safe_name != stored_name:
@@ -418,8 +417,6 @@ def create_storage_name(
     file_hash
 ):
 
-    # Check whether this exact filename is already
-    # being used by an indexed document.
 
     existing = conn.execute(
         """
@@ -431,14 +428,10 @@ def create_storage_name(
     ).fetchone()
 
 
-    # If the name is free, keep the original name.
-
     if existing is None:
 
         return filename
 
-
-    # Otherwise add part of the file hash.
 
     path = Path(
         filename
